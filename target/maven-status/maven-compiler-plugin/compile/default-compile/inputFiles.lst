@@ -1,6 +1,7 @@
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/entities/AnswersCertificationsEntity.java
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/entities/StudentEntity.java
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/controllers/StudentController.java
+/home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/useCases/VerifyIfHasCertificationUseCase.java
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/entities/CestificationStudentEntity.java
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/CertificationNlwApplication.java
 /home/ribeirorvs/Workspace/cestification_nlw/src/main/java/com/middlewaredev/certification_nlw/modules/students/DTO/VerifyHasCertificationDTO.java
