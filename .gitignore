@@ -1,1 +1,48 @@
-./target
+# Compiled class files
+/target/
+
+# Logs
+/logs/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+*.log
+mvnw
+mvnw.cmd
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot Properties
+application.properties
+application.yml
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Spring Boot JPA
+# Hibernate
+*.hbm.xml
+*.java~
+*.dat
+*.log
+*.lock
+*.lck
+*.properties
+*.ser
+
+# OS-specific files
+.DS_Store
+Thumbs.db
