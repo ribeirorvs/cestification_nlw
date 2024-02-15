@@ -21,7 +21,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity(name = "certifiations")
+@Entity(name = "certifications")
 public class CertificationStudentEntity {
     
     @Id
