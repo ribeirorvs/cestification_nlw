@@ -23,7 +23,7 @@ public class AlternativesEntity {
     @GeneratedValue(strategy = GenerationType.UUID)
     private UUID id;
 
-    private String desription;
+    private String description;
 
     private boolean isCorrect;
 
