@@ -1,4 +1,4 @@
-package com.middlewaredev.certification_nlw.modules.questions;
+package com.middlewaredev.certification_nlw.modules.questions.entities;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

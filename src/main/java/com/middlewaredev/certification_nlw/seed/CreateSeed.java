@@ -38,9 +38,9 @@ public class CreateSeed {
 
             jdbcTemplate.execute(sqlScript);
 
-            System.out.println("Seed realizado com sucesso");
+            System.out.println("Seed executed");
         } catch (IOException e) {
-            System.err.println("Erro ao executar arquivo " + e.getMessage());
+            System.err.println("Error " + e.getMessage());
         }
     }
 }
