@@ -3,7 +3,7 @@ package com.middlewaredev.certification_nlw.modules.students.useCases;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.middlewaredev.certification_nlw.modules.students.DTO.VerifyHasCertificationDTO;
+import com.middlewaredev.certification_nlw.modules.students.dto.VerifyHasCertificationDTO;
 import com.middlewaredev.certification_nlw.modules.students.repositories.CertificationStudentRepository;
 
 @Service
